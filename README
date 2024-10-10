@@ -1,0 +1,19 @@
+Installation
+Python 3.12
+All install as admin
+pip install python-nmap
+pip install pip-system-certs
+pip install requests
+pip install beautifulsoup4 (soupsieve et beautifulsoup4)
+pip install urllib3 --> dépendances:
+    pip install certifi
+    pip install charset-normalizer
+    pip install idna
+pip install openpyxl (openpyxl et_xmlfile)
+pip install Flask
+
+
+
+/Python/Python312/Scripts/
+/Python/Python312/Scripts/nmap.exe 
+
